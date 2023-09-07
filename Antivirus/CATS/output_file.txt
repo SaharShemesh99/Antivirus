@@ -1,0 +1,12 @@
+1's Anti-Virus Scanning Results:
+-----------------------------------------
+
+Folder to scan: CATS
+
+Virus signature: CATS\KittenVirusSign
+
+Scanning option: Quick Scan
+
+Results:
+CATS\kitten_frog.jpg -- Not infected
+CATS\kitten_run.jpg -- Infected! (found in the last 20% of the file)
